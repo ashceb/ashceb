@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ashceb
+- 👀 I’m a Data Scientist
+- 🌱 I’m an Aspiring Data Scientist
